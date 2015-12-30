@@ -2,7 +2,7 @@
 
 * Whatever is the next RefluxJS version.
 
-## v.0.3.0_3, 2015-Nov-10
+## v.0.3.0_3, 2015-Dec-30
 
 * Bump browserify version
 
